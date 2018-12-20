@@ -1,0 +1,10 @@
+C:\Users\Edward\source\repos\WindowsApp1\WindowsApp1\bin\Debug\Server.exe.config
+C:\Users\Edward\source\repos\WindowsApp1\WindowsApp1\bin\Debug\Server.exe
+C:\Users\Edward\source\repos\WindowsApp1\WindowsApp1\bin\Debug\Server.pdb
+C:\Users\Edward\source\repos\WindowsApp1\WindowsApp1\bin\Debug\Server.xml
+C:\Users\Edward\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Edward\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Server.vbproj.GenerateResource.cache
+C:\Users\Edward\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Server.vbproj.CoreCompileInputs.cache
+C:\Users\Edward\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Server.exe
+C:\Users\Edward\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Server.xml
+C:\Users\Edward\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Server.pdb

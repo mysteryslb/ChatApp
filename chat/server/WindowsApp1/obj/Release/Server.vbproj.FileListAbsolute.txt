@@ -1,0 +1,11 @@
+C:\Users\Edward\source\repos\WindowsApp1\WindowsApp1\bin\Release\Server.exe.config
+C:\Users\Edward\source\repos\WindowsApp1\WindowsApp1\bin\Release\Server.exe
+C:\Users\Edward\source\repos\WindowsApp1\WindowsApp1\bin\Release\Server.pdb
+C:\Users\Edward\source\repos\WindowsApp1\WindowsApp1\bin\Release\Server.xml
+C:\Users\Edward\source\repos\WindowsApp1\WindowsApp1\obj\Release\Server.vbprojResolveAssemblyReference.cache
+C:\Users\Edward\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.Resources.resources
+C:\Users\Edward\source\repos\WindowsApp1\WindowsApp1\obj\Release\Server.vbproj.GenerateResource.cache
+C:\Users\Edward\source\repos\WindowsApp1\WindowsApp1\obj\Release\Server.vbproj.CoreCompileInputs.cache
+C:\Users\Edward\source\repos\WindowsApp1\WindowsApp1\obj\Release\Server.exe
+C:\Users\Edward\source\repos\WindowsApp1\WindowsApp1\obj\Release\Server.xml
+C:\Users\Edward\source\repos\WindowsApp1\WindowsApp1\obj\Release\Server.pdb
